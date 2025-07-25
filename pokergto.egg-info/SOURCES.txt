@@ -1,0 +1,12 @@
+setup.py
+pokergto/__init__.py
+pokergto/gpt_api.py
+pokergto/ocr_parser.py
+pokergto/screenshot.py
+pokergto/utils.py
+pokergto.egg-info/PKG-INFO
+pokergto.egg-info/SOURCES.txt
+pokergto.egg-info/dependency_links.txt
+pokergto.egg-info/entry_points.txt
+pokergto.egg-info/requires.txt
+pokergto.egg-info/top_level.txt
