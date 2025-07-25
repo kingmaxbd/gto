@@ -1,6 +1,7 @@
 import requests
+import os
 
-OPENAI_API_KEY = "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"  # 🔐 Встав свій ключ
+api_key = os.getenv("OPENAI_API_KEY")
 
 def send_to_openai_parse_table(image_b64):
     prompt = """
